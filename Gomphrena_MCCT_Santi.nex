@@ -1,0 +1,97 @@
+#NEXUS
+[R-package APE, Thu Jul 28 17:24:16 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 42;
+	TAXLABELS
+		Gomphrena_prostrata
+		Guilleminea_gracilis
+		Guilleminea_densa
+		Gomphrena_rupestris
+		Gomphrena_mollis
+		Gomphrena_martiana
+		Gomphrena_boliviana
+		Gomphrena_meyeniana
+		Gossypianthus_lanuginosus
+		Gossypianthus_brittonii
+		Gomphrena_pumila
+		Gomphrena_umbellata
+		Gomphrena_radiata
+		Gomphrena_tomentosa
+		Gomphrena_cladotrichoides
+		Gomphrena_mendocina
+		Lithophila_muscoides
+		Blutaparon_vermiculare
+		Gomphrena_canescens
+		Gomphrena_brachystylis
+		Gomphrena_flaccida
+		Gomphrena_pulchella
+		Gomphrena_agrestis
+		Gomphrena_cardenasii
+		Gomphrena_lanigera
+		Gomphrena_graminea
+		Gomphrena_macrocephala
+		Gomphrena_celosioides
+		Gomphrena_haageana
+		Gomphrena_bicolor
+		Gomphrena_potosiana
+		Gomphrena_fuscipellita
+		Gomphrena_mizqueensis
+		Gomphrena_pallida
+		Gomphrena_oligocephala
+		Gomphrena_globosa
+		Gomphrena_phaeotricha
+		Gomphrena_nitida
+		Gomphrena_ferruginea
+		Gomphrena_trollii
+		Gomphrena_haenkeana
+		Gomphrena_perennis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Gomphrena_prostrata,
+		2	Guilleminea_gracilis,
+		3	Guilleminea_densa,
+		4	Gomphrena_rupestris,
+		5	Gomphrena_mollis,
+		6	Gomphrena_martiana,
+		7	Gomphrena_boliviana,
+		8	Gomphrena_meyeniana,
+		9	Gossypianthus_lanuginosus,
+		10	Gossypianthus_brittonii,
+		11	Gomphrena_pumila,
+		12	Gomphrena_umbellata,
+		13	Gomphrena_radiata,
+		14	Gomphrena_tomentosa,
+		15	Gomphrena_cladotrichoides,
+		16	Gomphrena_mendocina,
+		17	Lithophila_muscoides,
+		18	Blutaparon_vermiculare,
+		19	Gomphrena_canescens,
+		20	Gomphrena_brachystylis,
+		21	Gomphrena_flaccida,
+		22	Gomphrena_pulchella,
+		23	Gomphrena_agrestis,
+		24	Gomphrena_cardenasii,
+		25	Gomphrena_lanigera,
+		26	Gomphrena_graminea,
+		27	Gomphrena_macrocephala,
+		28	Gomphrena_celosioides,
+		29	Gomphrena_haageana,
+		30	Gomphrena_bicolor,
+		31	Gomphrena_potosiana,
+		32	Gomphrena_fuscipellita,
+		33	Gomphrena_mizqueensis,
+		34	Gomphrena_pallida,
+		35	Gomphrena_oligocephala,
+		36	Gomphrena_globosa,
+		37	Gomphrena_phaeotricha,
+		38	Gomphrena_nitida,
+		39	Gomphrena_ferruginea,
+		40	Gomphrena_trollii,
+		41	Gomphrena_haenkeana,
+		42	Gomphrena_perennis
+	;
+	TREE * UNTITLED = [&R] ((1:10.991681,(2:1.995487,3:1.995487):8.996194):6.075415,((4:1.341144,5:1.341144):14.058863,(((6:0.398931,7:0.398931):10.961307,((8:2.280329,9:2.280329):7.451671,(10:8.945747,(11:7.386445,((12:2.671038,13:2.671038):1.762979,(14:3.506674,(15:0.955252,16:0.955252):2.551422):0.927343):2.952428):1.559302):0.786254):1.628238):1.105929,((17:6.239303,(18:5.508842,(19:3.928178,(20:3.309249,21:3.309249):0.618929):1.580664):0.730461):4.966718,((22:7.404099,((23:3.371171,24:3.371171):3.185487,(25:3.259577,(26:1.259013,27:1.259013):2.000564):3.29708):0.847442):1.715202,(28:8.31466,(29:4.848511,(((30:2.43487,31:2.43487):0.689033,(32:1.732956,(33:0.800142,(34:0.500574,35:0.500574):0.299567):0.932815):1.390947):1.152165,(36:3.351755,((37:1.095815,38:1.095815):1.722279,(39:1.635941,(40:0.442394,(41:0.112518,42:0.112518):0.329876):1.193547):1.182153):0.533661):0.924313):0.572443):3.466149):0.804641):2.08672):1.260146):2.93384):1.667088);
+END;
